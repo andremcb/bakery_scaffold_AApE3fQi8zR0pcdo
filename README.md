@@ -1,4 +1,5 @@
-[![Status](https://img.shields.io/badge/status-NO%20COMMIT-blue.svg)](https://github.com/andremcb/bakery_scaffold_AApE3fQi8zR0pcdo)
+[![Status](https://img.shields.io/badge/status-BUILDING%20COMMIT:%20b01ae6ddb6cc8edef194b258390c4d3805191ce2-yellow.svg)](https://github.com/andremcb/bakery_scaffold_AApE3fQi8zR0pcdo/commit/b01ae6ddb6cc8edef194b258390c4d3805191ce2)
+
 
 If you think the status message is incorrect, click into it or check the build status of your latest commit. It may still be building.
 

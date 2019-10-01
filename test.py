@@ -145,14 +145,6 @@ class AssessmentTestCases(unittest.TestCase):
         self.assertIn("order_success.html", self.driver.current_url)
         self.assertTrue(session_id_elem.text)
 
-    # def test_assessment_check_for_most_recent_purchase(self):
-    #     import stripe
-    #     stripe.api_key = os.environ.get('STRIPE_TEST_SECRET_KEY')
-    #     charges = stripe.Charge.list(limit=3)
-    #     most_recent = list(charges)[-1]
-    #
-    #     self.assertTrue(most_recent.paid)
-    #     self.assertEqual(most_recent.status, "succeeded")
 
     def tearDown(self):
         self.driver.close()
